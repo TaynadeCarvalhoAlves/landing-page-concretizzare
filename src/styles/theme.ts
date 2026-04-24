@@ -13,7 +13,6 @@ export const theme = {
     backgroundTwo: '#baceca',
 
     white: '#FFFFFF',
-
     text: '#2B2D42',
     textLight: '#6C757D'
   }
